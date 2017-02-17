@@ -1,0 +1,13 @@
+html {
+	background-color: grey;
+}
+
+canvas {
+	background: white;
+	border: 1px solid #000000;
+}
+
+p.footer {
+	text-align: center;
+	font-size: 10px;
+}
