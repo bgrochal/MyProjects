@@ -6,6 +6,3 @@ Technology stack: Java, XML.
 ## Running
 Compile Java sources and run the `pl.parser.nbp.MainClass` class.
 
-## Status
-This project is not finished yet.
-
